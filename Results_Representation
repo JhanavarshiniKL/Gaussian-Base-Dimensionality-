@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Flourish Visualization</title>
+    <style>
+        body {
+            font-family: sans-serif;
+            margin: 20px;
+            display: flex;
+            flex-direction: column;
+            align-items: center; /* Center the content horizontally */
+        }
+
+         .flourish-container {
+            width: 80%; /* Adjust as needed */
+            max-width: 800px; /* Limit maximum width */
+            margin: 20px 0;
+        }
+
+        .flourish-embed {
+            width: 100%; /* Allow the Flourish embed to fill the container */
+            height: 500px; /* Adjust height as needed */
+        }
+         @media screen and (max-width: 600px) {
+            .flourish-container {
+                width: 95%; /* Adjust width for smaller screens */
+            }
+        }
+
+
+    </style>
+</head>
+<body>
+    <h1> Visualization</h1>
+    
+    
+    <div class="flourish-embed flourish-hierarchy" data-src="visualisation/21375093"><script src="https://public.flourish.studio/resources/embed.js"></script><noscript><img src="https://public.flourish.studio/visualisation/21375093/thumbnail" width="100%" alt="hierarchy visualization" /></noscript></div>
+    
+        </div>
+    </div>
+
+    
+</body>
+</html>
