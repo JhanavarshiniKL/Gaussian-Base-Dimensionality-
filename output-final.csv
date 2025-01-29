@@ -1,0 +1,9 @@
+timestamp,sensor_id,latitude,longitude,vehicle_speed,vehicle_count,weather,road_condition,cargo_type,delivery_window_start,delivery_window_end,vehicle_capacity,driver_preference,fragile_cargo,refrigerated_cargo,road_closed,standard_truck_available
+2024-01-26T08:00:00.000,S001,34.0522,-118.2437,30,120,Clear,Dry,Electronics,09:00,11:00,1000,highway,false,false,false,true
+2024-01-26T08:05:00.000,S002,34.055,-118.246,45,85,Clear,Dry,Clothing,13:00,16:00,800,backroads,false,false,false,true
+2024-01-26T08:10:00.000,S001,34.0522,-118.2437,25,150,Rain,Wet,Electronics,10:00,12:00,1000,highway,false,true,true,false
+2024-01-26T08:15:00.000,S003,34.058,-118.25,55,60,Clear,Dry,Food,11:00,13:00,1200,backroads,false,true,false,true
+2024-01-26T08:20:00.000,S002,34.055,-118.246,40,90,Clear,Dry,Clothing,14:00,17:00,800,highway,false,false,false,true
+2024-01-26T08:25:00.000,S001,34.0522,-118.2437,35,130,Clear,Dry,Electronics,12:00,14:00,1000,backroads,false,true,true,false
+2024-01-26T08:30:00.000,S003,34.058,-118.25,60,55,Clear,Dry,Food,15:00,17:00,1200,highway,false,false,false,true
+2024-01-26T08:35:00.000,S002,34.055,-118.246,42,88,Rain,Wet,Clothing,10:00,12:00,800,backroads,false,false,false,true
